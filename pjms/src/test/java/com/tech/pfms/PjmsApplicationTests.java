@@ -1,10 +1,10 @@
-package com.tech.pixms;
+package com.tech.pfms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PixmsApplicationTests {
+class PjmsApplicationTests {
 
 	@Test
 	void contextLoads() {

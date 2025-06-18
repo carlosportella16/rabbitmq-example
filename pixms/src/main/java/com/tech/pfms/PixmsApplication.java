@@ -1,4 +1,4 @@
-package com.tech.pixms;
+package com.tech.pfms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
