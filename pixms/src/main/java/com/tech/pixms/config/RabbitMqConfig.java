@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class RabbitMqConfig {
 
-    public static String PIX_DONE_EXCHANGE = "pix-efetuado";
+    public static final String PIX_DONE_EXCHANGE = "pix-efetuado";
 
     @Bean
     public Jackson2JsonMessageConverter messageConverter() {
