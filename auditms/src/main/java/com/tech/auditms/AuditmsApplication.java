@@ -1,4 +1,4 @@
-package com.tech.pfms;
+package com.tech.auditms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
