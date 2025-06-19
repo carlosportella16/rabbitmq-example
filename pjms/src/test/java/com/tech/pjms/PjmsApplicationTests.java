@@ -1,4 +1,4 @@
-package com.tech.pfms;
+package com.tech.pjms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
